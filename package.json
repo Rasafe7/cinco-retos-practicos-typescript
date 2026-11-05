@@ -1,0 +1,10 @@
+{
+  "name": "cinco-retos-typescript",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Solución en TypeScript puro de cinco retos prácticos de DWEC.",
+  "scripts": {
+    "compilar": "tsc",
+    "vigilar": "tsc --watch"
+  }
+}
